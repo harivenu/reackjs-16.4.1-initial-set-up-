@@ -2,4 +2,5 @@
 
 Initial Setup
 
-Clone the files and Run `npm install`.
+Install NPM in you computer.
+Clone the files and Run `npm install`
